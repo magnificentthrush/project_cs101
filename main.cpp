@@ -9,5 +9,7 @@ int main() {
     cout<<"new_code branch change 2"<<endl;
     cout<<"user name changed"
     cout<<"email changed 2"
+
+    cout<<"changed something in other's repo"<<endl;
     return 0;
 }

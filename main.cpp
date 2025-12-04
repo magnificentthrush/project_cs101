@@ -8,5 +8,6 @@ int main() {
     cout<<"changed main.cpp file"<<endl;
     cout<<"new_code branch change 2"<<endl;
     cout<<"user name test"
+    cout<<"email test"
     return 0;
 }

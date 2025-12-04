@@ -7,7 +7,7 @@ int main() {
     cout<< "This project uses the C++ language standard version." << endl;
     cout<<"changed main.cpp file"<<endl;
     cout<<"new_code branch change 2"<<endl;
-    cout<<"user name test"
+    cout<<"user name changed"
     cout<<"email test"
     return 0;
 }

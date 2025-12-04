@@ -6,5 +6,7 @@ int main() {
     cin>>a>>b;
     cout<<"subraction is: "<<(a-b)<<endl;
     cout<<"Sum: "<<a + b<<endl;
+
+    cout<<"DIvision is: "<<(a/b)<<endl;
     return 0;
 }
